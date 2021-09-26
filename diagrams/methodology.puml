@@ -1,0 +1,14 @@
+@startuml
+skinparam dpi 100
+skinparam monochrome true
+skinparam shadowing true
+skinparam classFontSize 12
+
+
+(*) -right-> "Data Collection"
+-right-> "Data Preprocessing"
+-right-> "Feature Engineering"
+-right-> "Model Initialization"
+-right-> "Model Evaluation"
+-right-> (*)
+@enduml

@@ -1,0 +1,6 @@
+praw.ini
+.ipynb_checkpoints/
+.idea/
+data/submissions.csv
+data/comments*.csv
+demo_data/
